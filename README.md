@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**S3m01/S3m01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Sem (S3m01).
 
-Here are some ideas to get you started:
+I like building things that make computers do the boring parts for me: dashboards, scripts, automations, and web apps that actually get used.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 What I mess around with
+- APIs and little backend services
+- Linux + Docker
+- Automations that save time (and sanity)
+
+### 🧪 Currently experimenting with
+- Deployments that don’t randomly break at 2 AM
+
+### ⚡ Fun fact
+If something takes more than 3 clicks, I immediately want to automate it.
